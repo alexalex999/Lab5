@@ -1,0 +1,38 @@
+[
+    {
+        "direction": "Moscow",
+        "price": 5000.0,
+        "discount": 0.0,
+        "final_price": 5000.0
+    },
+    {
+        "direction": "Toronto",
+        "price": 20000.0,
+        "discount": 20.0,
+        "final_price": 16000.0
+    },
+    {
+        "direction": "SPB",
+        "price": 1000.0,
+        "discount": 0.0,
+        "final_price": 1000.0
+    },
+    {
+        "direction": "Argentina",
+        "price": 90000.0,
+        "discount": 45.0,
+        "final_price": 49500.0
+    },
+    {
+        "direction": "south",
+        "price": 4000.0,
+        "discount": 30.0,
+        "final_price": 2800.0
+    },
+    {
+        "direction": "south",
+        "price": 5000.0,
+        "discount": 15.0,
+        "final_price": 4250.0
+    }
+]

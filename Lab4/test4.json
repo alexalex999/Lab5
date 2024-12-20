@@ -1,0 +1,14 @@
+[
+    {
+        "direction": "south",
+        "price": 1500.0,
+        "discount": 12.0,
+        "final_price": 1320.0
+    },
+    {
+        "direction": "north",
+        "price": 9000.0,
+        "discount": 18.0,
+        "final_price": 7380.0
+    }
+]
